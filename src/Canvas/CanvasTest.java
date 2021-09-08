@@ -20,3 +20,6 @@ public class CanvasTest {
 	}
 
 }
+
+
+// 잘 전송해 봅시다.
